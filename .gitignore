@@ -1,0 +1,9 @@
+Release/
+Debug/
+zlib/Release
+zlib/Debug
+zlib/zlib.vcxproj.user
+mame360.sdf
+mame360.vcxproj.user
+mame360.opensdf
+mame360.suo
